@@ -1,2 +1,2 @@
 # Whatsup_Developement
-This reopos is to develop a chat application.
+This repos is to develop a chat application.
